@@ -12,4 +12,4 @@ How to use our Book Store:
 5]if you want to exit just enter no.8, you will go back to the login/signup menu.
 
 Our all data is saved in a database name store you can also access it using mysql shell.
-(the code is in the ppt)  
+
